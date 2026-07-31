@@ -146,7 +146,7 @@ Firebase의 태그 목록을 불러온 뒤 각 값을 조회하여 최근 문 �
 문 모형에 마그네틱 도어 센서를 설치하고 ESP8266과 연결하여 실제 문 개폐 상태를 감지했습니다.
 
 <p align="center">
-  <img src="docs/images/door-prototype.jpg" alt="마그네틱 도어 센서를 부착한 문 모형" width="850">
+  <img src="docs/images/door-prototype1.png" alt="마그네틱 도어 센서를 부착한 문 모형" width="850">
 </p>
 
 ## 개발 과정
