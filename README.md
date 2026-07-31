@@ -4,7 +4,7 @@
 > ESP8266, 마그네틱 도어 센서, Firebase, 앱인벤터를 활용하여 문과 창문의 열림 상태를 원격으로 확인하고 기록하는 가정용 보안 시스템입니다.
 
 <p align="center">
-  <img src="docs/images/door-prototype.jpg" alt="원격 홈 보안관 문 모형 시제품" width="850">
+  <img src="docs/images/door-prototype.png" alt="원격 홈 보안관 문 모형 시제품" width="850">
 </p>
 
 ## 프로젝트 개요
