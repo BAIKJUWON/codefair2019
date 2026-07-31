@@ -291,8 +291,6 @@ Firebase.setString(date_time, room);
 
 ## 보안 주의사항
 
-기존 소스 코드와 발표자료에는 Firebase 인증 정보와 무선망 비밀번호가 포함되어 있습니다. 공개 저장소에 올리기 전에 반드시 제거하고, 이미 사용된 인증 정보와 비밀번호는 폐기하거나 변경해야 합니다.
-
 ```cpp
 #define FIREBASE_HOST "YOUR_FIREBASE_HOST"
 #define FIREBASE_AUTH "YOUR_FIREBASE_AUTH"
